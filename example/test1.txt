@@ -4,7 +4,7 @@ The robot add Head.
 This robot add 386 CPU.
 Add Memory RAM.
 Add Memory ROM 128M
-Add Expanding IO 
-
+Add Expanding IO 128 pin. (need IO expander IC )
+Add OpenCV
 
 
