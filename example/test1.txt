@@ -1,2 +1,5 @@
 This is test 1.
 Initial the machine.
+The robot add Head.
+This robot add 386 CPU.
+Add Memory RAM.
