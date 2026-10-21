@@ -3,3 +3,8 @@ Initial the machine.
 The robot add Head.
 This robot add 386 CPU.
 Add Memory RAM.
+Add Memory ROM 128M
+Add Expanding IO 
+
+
+
